@@ -1,1 +1,2 @@
+"""Service helpers for ChatX."""
 
